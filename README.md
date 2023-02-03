@@ -8,4 +8,4 @@
 - 👯 Worked in website and backend design
 - 🤔 Web applications penetration testing
 - 💬 Love working with C programming language
-- ⚡ Hacking and security tool design
+- ⚡ Hacking and security tools design
