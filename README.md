@@ -3,9 +3,7 @@
 ![ALT TEXT](https://raw.githubusercontent.com/torrocus/torrocus/master/IMAGE)
 -->
 
-- 🔭 Love the world of security hacking and malware
-- 🌱 Living in the world of Linux and programming
-- 👯 Worked in website and backend design
-- 🤔 Web applications penetration testing
-- 💬 Love working with C programming language
-- ⚡ Hacking and security tools design
+- :alien:  Living in the world of Linux and programming
+- :technologist:  Worked in website and backend design
+- :skull:  Web applications penetration testing
+- :robot:  Hacking and security tools design
