@@ -28,7 +28,8 @@
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/rm-onata)
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/rm-onata)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=linux)](https://github.com/rm-onata)
+
 
 <details>
 <p align="center">
