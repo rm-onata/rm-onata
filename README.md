@@ -18,13 +18,10 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/rm-onata)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/rm-onata)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/rm-onata)
 
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/rm-onata)
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/rm-onata)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/rm-onata)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/rm-onata)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/rm-onata)
 
 ### OS
