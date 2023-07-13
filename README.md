@@ -7,12 +7,7 @@
     <!--<a href="https://bugcrowd.com/scr3br">
         <img src="https://img.shields.io/badge/Bugcrowd-blue?style=flat-square&logo=bugcrowd" alt="bugcrowd">
     </a>-->
-    <!--<a href="https://stepik.org/users/108517510">
-        <img src="https://img.shields.io/badge/Stepik-blue?style=flat-square&logo=" alt="Stepik">
-    </a>
-    <a href="https://leetcode.com/wervlad">
-        <img src="https://img.shields.io/badge/LeetCode-blue?style=flat-square&logo=LeetCode" alt="LeetCode">
-    </a>-->
+
 </p>
 
 ### Languages
