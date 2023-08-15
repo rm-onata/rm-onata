@@ -11,10 +11,8 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300" height="300" />
 <p>
-
-<img src="https://github.com/AlenaNiku/vino-map/blob/master/vino-giphy.gif">
 
 
 <details>
