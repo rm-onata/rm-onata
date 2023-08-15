@@ -10,10 +10,8 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300" height="300" />
+<img src="https://user-images.githubusercontent.com/121322/154591402-5c6e91c4-1d73-472b-b24d-ddae5220151e.png" width="300" height="300" />
 <p>
-<img src="https://user-images.githubusercontent.com/121322/154592499-65eecd7e-2da7-4963-a633-b60feded6a2f.gif" />
-
 
 <details>
 <p align="center">
