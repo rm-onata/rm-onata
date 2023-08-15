@@ -7,7 +7,6 @@
     <!--<a href="https://bugcrowd.com/scr3br">
         <img src="https://img.shields.io/badge/Bugcrowd-blue?style=flat-square&logo=bugcrowd" alt="bugcrowd">
     </a>-->
-
 </p>
 
 <p align="center">
