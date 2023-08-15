@@ -14,7 +14,7 @@
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 <p>
 
-![vino map gif](https://github.com/AlenaNiku/vino-map/blob/master/vino-giphy.gif)
+<img src="https://github.com/AlenaNiku/vino-map/blob/master/vino-giphy.gif">
 
 
 <details>
