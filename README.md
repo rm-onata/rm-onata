@@ -12,7 +12,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300" height="300" />
 <p>
-<img src="https://twitter.com/github/status/1455272696577761289" />
+<img src="https://user-images.githubusercontent.com/121322/154592499-65eecd7e-2da7-4963-a633-b60feded6a2f.gif" />
 
 
 <details>
