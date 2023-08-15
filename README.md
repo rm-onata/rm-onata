@@ -1,6 +1,6 @@
 <h1 align="center">Hi, guys! <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 <p align="center">
-    <b>Welcome to my page!</b><br><br>
+    <b>Welcome to my page</b><br><br>
     <!--<a href="https://hackerone.com/onata">
         <img src="https://img.shields.io/badge/Hackerone-blue?style=flat-square&logo=hackerone" alt="hackerone">
     </a>-->
@@ -12,6 +12,7 @@
 <p align="center">
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="300" height="300" />
 <p>
+<img src="https://twitter.com/github/status/1455272696577761289" />
 
 
 <details>
